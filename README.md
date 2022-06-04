@@ -25,7 +25,7 @@ I am AI and robotics ethusiast from Kazakhstan
 [<img align="left"  width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left"  width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
 [<img align="left"  width="22px" src="https://iconarchive.com/download/i99285/froyoshark/enkel/Telegram.ico" />][telegram]
-[<img align="left"  width="22px" src="https://i.pinimg.com/474x/fb/bb/b4/fbbbb454aaff1e476204abae7ec19518.jpg" />][instagram]
+[<img align="left"  width="22px" src="https://flyclipart.com/thumb2/instagram-logo-png-transparent-background-884887.png" />][instagram]
 
 
 
