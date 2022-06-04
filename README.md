@@ -22,11 +22,11 @@ I am AI and robotics ethusiast from Kazakhstan
 
 ---
 ### 📫 How to reach me ...
-[<img align="left"  width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left"  width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
-[<img align="left"  width="22px" src="https://iconarchive.com/download/i99285/froyoshark/enkel/Telegram.ico" />][telegram]
-[<img align="left"  width="22px" src="https://i.pinimg.com/originals/72/9f/77/729f7798561be2cb67f39e916a22eb6a.png" />][instagram]
-[<img align="left"  width="22px" src="https://toppng.com/uploads/preview/whatsapp-icon-logo-png-11536003317vn34oswvvg.png" />][whatsapp]
+[<img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
+[<img align="left"  width="25px" src="https://iconarchive.com/download/i99285/froyoshark/enkel/Telegram.ico" />][telegram]
+[<img align="left"  width="25px" src="https://i.pinimg.com/originals/72/9f/77/729f7798561be2cb67f39e916a22eb6a.png" />][instagram]
+[<img align="left"  width="25px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/whatsapp-512.png" />][whatsapp]
 
 
 
