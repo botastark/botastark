@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Bota Duisenbay
 I am AI and robotics ethusiast from Kazakhstan
 
-## Education
+## 🎓 Education
 - I have obtained BSc degree in **Robotics and Mechatronics** (3.4/4) from [Nazarbayev University](https://nu.edu.kz/)
 - Currently pursuing MSc degree in **Artificial Intelligence and Robotics** at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
 
@@ -10,7 +10,7 @@ I am AI and robotics ethusiast from Kazakhstan
 .. anything related to machine learning, neuroscience, robotics and software development.
 
 
-## :computer: Languages and Tools
+## 💻 Languages and Tools I use
 - **Programming languages:** Python, C, Java, SQL, MATLAB
 - **Web programming:** JavaScript, HTML, CSS
 - **Frameworks:** TensorFlow, PyTorch, NumPy, OpenCV, ROS
@@ -18,8 +18,6 @@ I am AI and robotics ethusiast from Kazakhstan
 - **Development tools:** Colab, PyCharm, Jupyter, Spyder, Anaconda, Visual Studio, Git, Eclipse, Oracle MySQL
 - **Operating systems:** Mac, Ubuntu
 - **Office suite:** Microsoft Office, Latex
-
-- 🌱 I’m currently learning ...
 
 <!---
 botastark/botastark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
