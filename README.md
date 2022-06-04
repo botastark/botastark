@@ -1,6 +1,9 @@
 ## 👋 Hi, I’m Bota Duisenbay
 I am AI and robotics ethusiast from Kazakhstan
-I have obtained BSc degree in **Robotics and Mechatronics** (3.4/4) from Kazakhstani top 1 university - Nazarbayev University, and currently pursuing MSc degree in ** Artificial Intelligence and Robotics** at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
+
+## Education
+- I have obtained BSc degree in **Robotics and Mechatronics** (3.4/4) from [Nazarbayev University](https://nu.edu.kz/)
+- Currently pursuing MSc degree in ** Artificial Intelligence and Robotics** at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
 
 
 ## 👀 I’m interested in ...
