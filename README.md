@@ -19,17 +19,10 @@ I am AI and robotics ethusiast from Kazakhstan
 - **Operating systems:** Mac, Ubuntu
 - **Office suite:** Microsoft Office, Latex
 
-<!---
-botastark/botastark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<br />
 
 ---
 ### 📫 How to reach me ...
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://cdn-icons-png.flaticon.com/512/174/174857.png)" />][linkedin]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
