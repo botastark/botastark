@@ -23,9 +23,8 @@ I am AI and robotics ethusiast from Kazakhstan
 ### 📫 How to reach me ...
 [<img align="left"  width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left"  width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
-[<img align="left"  width="30px" src="https://iconarchive.com/download/i99285/froyoshark/enkel/Telegram.ico" />][telegram]
 [<img align="left"  width="30px" src="https://img.icons8.com/color/240/undefined/instagram-new--v1.png" />][instagram]
-[<img align="left"  width="30px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/whatsapp-512.png" />][whatsapp]
+
 
 
 
@@ -33,4 +32,3 @@ I am AI and robotics ethusiast from Kazakhstan
 [instagram]: https://www.instagram.com/botastark/
 [linkedin]: https://www.linkedin.com/in/botad/
 [gmail]: mailto:bota.duisenbay@gmail.com
-[whatsapp]: https://wa.me/393515754636
