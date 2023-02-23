@@ -7,7 +7,7 @@ I am AI and robotics ethusiast from Kazakhstan
 
 
 ## 👀 I’m interested in ...
-.. anything related to machine learning, neuroscience, robotics and software development.
+.. anything related to AI, neuroscience, robotics and software development.
 
 
 ## 💻 Languages and Tools I use
