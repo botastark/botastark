@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Bota Duisenbay
+## 👋 Hi, I’m Bota
 I am AI and robotics ethusiast from Kazakhstan
 
 ## 🎓 Education
