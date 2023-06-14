@@ -7,7 +7,7 @@ I am AI and robotics ethusiast from Kazakhstan
 
 
 ## 👀 I’m interested in ...
-.. anything related to AI, neuroscience, robotics and software development.
+.. anything related to AI, robotics and neuroscience.
 
 
 ## 💻 Languages and Tools I use
@@ -23,12 +23,10 @@ I am AI and robotics ethusiast from Kazakhstan
 ### 📫 How to reach me ...
 [<img align="left"  width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left"  width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
-[<img align="left"  width="30px" src="https://img.icons8.com/color/240/undefined/instagram-new--v1.png" />][instagram]
 
 
 
 
 [telegram]: https://t.me/botastark
-[instagram]: https://www.instagram.com/botastark/
 [linkedin]: https://www.linkedin.com/in/botad/
 [gmail]: mailto:bota.duisenbay@gmail.com
