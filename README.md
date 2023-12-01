@@ -7,7 +7,8 @@ I am AI and robotics engineer from Kazakhstan
 
 
 ## 👀 I’m interested in ...
-.. anything related to AI, robotics and neuroscience.
+.. anything related to computer vision, reinforcement learning, and robotics.
+
 
 
 ## 💻 Languages and Tools I use
