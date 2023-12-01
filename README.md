@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Bota
-I am AI and robotics ethusiast from Kazakhstan
+I am AI and robotics engineer from Kazakhstan
 
 ## 🎓 Education
-- BSc degree in **Robotics and Mechatronics** (3.4/4) from [Nazarbayev University](https://nu.edu.kz/)
+- BSc degree in **Robotics and Mechatronics**  from [Nazarbayev University](https://nu.edu.kz/)
 - MSc degree in **Artificial Intelligence and Robotics** at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
 
 
@@ -11,13 +11,12 @@ I am AI and robotics ethusiast from Kazakhstan
 
 
 ## 💻 Languages and Tools I use
-- **Programming languages:** Python, C, Java, SQL, MATLAB
-- **Web programming:** JavaScript, HTML, CSS
-- **Frameworks:** TensorFlow, PyTorch, NumPy, OpenCV, ROS
-- **3D engines:** WebGL, Babylon.js, SolidWorks
-- **Development tools:** Colab, PyCharm, Jupyter, Spyder, Anaconda, Visual Studio, Git, Eclipse, Oracle MySQL
+- **Programming languages:** Python, C++, C, Java, SQL, MATLAB
+- **Web programming:** JavaScript, HTML, CSS 
+- **Frameworks:** TensorFlow, PyTorch, ROS
+- **3D engines:** WebGL, Blender, SolidWorks
+- **Development tools:** Colab, Visual Studio, Git
 - **Operating systems:** Mac, Ubuntu
-- **Office suite:** Microsoft Office, Latex
 
 
 ### 📫 How to reach me ...
