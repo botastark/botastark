@@ -1,5 +1,5 @@
-## 👋 Hi, I’m Bota
-I am AI and robotics engineer from Kazakhstan
+## 👋 Hi!
+AI and robotics engineer
 
 ## 🎓 Education
 - BSc degree in **Robotics and Mechatronics**  from [Nazarbayev University](https://nu.edu.kz/)
@@ -25,8 +25,5 @@ I am AI and robotics engineer from Kazakhstan
 [<img align="left"  width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
 
 
-
-
-[telegram]: https://t.me/botastark
 [linkedin]: https://www.linkedin.com/in/botad/
 [gmail]: mailto:bota.duisenbay@gmail.com
