@@ -1,6 +1,4 @@
 ## 👋 Hi!
-AI and robotics engineer
-
 ## 🎓 Education
 - BSc degree in **Robotics and Mechatronics**  from [Nazarbayev University](https://nu.edu.kz/)
 - MSc degree in **Artificial Intelligence and Robotics** at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
